@@ -50,9 +50,6 @@ QuizGame/
 
 ---
 
-
----
-
 ## ✨ Future Improvements
 - ⏳ Add timer for each question
 - 🔀 Shuffle/randomize questions each time
@@ -61,10 +58,6 @@ QuizGame/
 - 👤 Add user name input before quiz start
 
 ---
-
-
-
-
 
 ## 📂 Project Structure
 
