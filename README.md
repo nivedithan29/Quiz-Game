@@ -46,7 +46,7 @@ QuizGame/
 ---
 
 ## 🌍 Live Demo
-🔗 Netlify Link: *brain-test-game.netlify.app*  
+🔗 Netlify Link: brain-test-game.netlify.app 
 
 ---
 
@@ -58,6 +58,3 @@ QuizGame/
 - 👤 Add user name input before quiz start
 
 ---
-
-## 📂 Project Structure
-
